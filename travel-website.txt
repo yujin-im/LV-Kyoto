@@ -1,0 +1,33 @@
+@섹션9 : CREATE Navigation
+    const 95 = () => {
+    npm i react-helmet-async
+
+    >App.js
+    import {HelmetProvider} from 'react-helmet-async'
+    <HelmetProvider></HelmetProvider>
+
+    >Home.js
+    import {Helmet} from 'react-helmet-async'
+    
+    return(
+    <Helmet> 
+    <title> ...  </title>
+    <meta name = "description" content = "..."/ >
+    <meta name = "keywords" content = "...., ...., ...." />
+    </Helmet>
+    )
+    
+    
+    }
+
+
+    const 96 = () =>{
+    favicon.io 
+    파일저장해서 원하는곳에 복사해서 붙이고
+    아래에 있는 href태그를 index.html 안에 붙여넣어 링크를 연결
+    
+    }
+    
+
+
+@섹션10 : 

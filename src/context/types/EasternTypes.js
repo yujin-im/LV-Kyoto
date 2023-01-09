@@ -1,0 +1,1 @@
+export const EASTERN_DETAILS = "EASTERN_DETAILS";

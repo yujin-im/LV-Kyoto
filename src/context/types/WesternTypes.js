@@ -1,0 +1,1 @@
+export const WESTERN_DETAILS = 'WESTERN_DETAILS';
