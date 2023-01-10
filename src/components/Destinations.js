@@ -8,7 +8,6 @@ import SouthernContext from '../context/SouthernContext';
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-import "../style.css";
 import Destination_grid from './Destination_grid';
 
 const Destinations = () => {

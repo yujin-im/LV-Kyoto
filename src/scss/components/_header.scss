@@ -6,10 +6,10 @@
     clip-path: polygon(50% 0%, 100% 0, 100% 86%, 0 100%, 0% 60%, 0 0);
     z-index :100;
     &__logo {
-        @include abstracts.position(absolute, 5rem, 0, null, null, null, null);
+        @include abstracts.position(absolute, 3rem, 0, null, null, null, null);
         z-index : 1;
         img {
-            width : 50rem;
+            width : 20rem;
             height : auto;
             object-fit : cover;
             animation : headerImage .5s linear;

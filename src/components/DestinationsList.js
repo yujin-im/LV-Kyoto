@@ -3,7 +3,6 @@
 import {LazyLoadImage} from 'react-lazy-load-image-component';
 import {GiPositionMarker} from 'react-icons/gi'
 import {Link} from 'react-router-dom'
-import "../style.css";
 const DestinationsList = ({ destination }) => {
     return(
         <>
